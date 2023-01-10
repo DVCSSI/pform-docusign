@@ -1,0 +1,16 @@
+body {
+    background: lightblue;
+}
+
+label {
+    font-weight: bolder;
+}
+
+span {
+    font-weight: bolder;
+}
+
+.info {
+    color: red;
+    font-weight: bolder;
+}
